@@ -1,1 +1,4 @@
 data/
+checkpoints/
+tokenizer_emotional.pkl
+tokenizer.pkl
